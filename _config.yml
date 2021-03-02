@@ -20,9 +20,9 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://keelanbrady1011.github.io'
 
-author: Keelan Brady                  # change to your full name
+author: keelan-brady                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: https://avatars.githubusercontent.com/u/73653387?s=460&u=d56ce0e12a8d4348527ae6ef424a69595251ae4d&v=4   # support internet resources
 
 github:
   username: keelanbrady1011             # change to your github username
@@ -51,7 +51,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/London
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
