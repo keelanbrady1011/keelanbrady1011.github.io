@@ -13,9 +13,7 @@ title: Keelan Brady                          # the main title
 tagline: Cyber-Security Enthusiast  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A Computer Nerd's Blog and Portfolio, Powered by Jekyll.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://keelanbrady1011.github.io'
